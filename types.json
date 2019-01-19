@@ -1,5 +1,12 @@
-"number":
-"string": "Bug fixing"
-"boolean":
-"object":
-"null":
+var student = {
+  "name" : "Даша",
+  "surname" : "Рязанова",
+  "age" : 19,
+  "isTeacher" : false,
+  "university" : {
+    "uni_name" : "Финашка",
+    "course" : 2,
+    "marks" : [5,5,4,4,5,5],
+    "works" : null
+  }
+}
